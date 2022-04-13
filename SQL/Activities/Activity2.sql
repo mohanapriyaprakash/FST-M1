@@ -1,4 +1,4 @@
----Actvity2---
+
 INSERT INTO salesman values(5001,'James Hoog','New York',15);
 
 INSERT INTO salesman values(5002,'Nail Knite','Paris',13);
