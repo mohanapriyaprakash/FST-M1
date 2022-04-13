@@ -1,4 +1,4 @@
----Activity3---
+
 Select salesman_id,salesman_city from salesman;
 
 SELECT * from salesman where salesman_city='Paris';
